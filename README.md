@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="left">Hi there 👋</h2>
 
 <div align="center">
   <a href="https://github.com/vtvictor">
@@ -15,7 +15,7 @@
 </a>
 
 ##
-👩‍💻 IDE
+<h2 align="left"> 👩‍💻 IDE
 <div style="display: inline_block"><br>
   <a href="https://github.com/vtvictor">
   <img align="center" alt="Victor-SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -23,22 +23,23 @@
   <img align="center" alt="Victor-INTELLIJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img align="center" alt="Victor-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </a>
+  </h2>
 </div>
   
 ##
-⚡ Database
+<h2 align="left"> ⚡ Database
 <div style="display: inline_block"><br>
   <a href="https://github.com/vtvictor">
   <img align="center" alt="Victor-POSTEGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Victor-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  </h2>
   </a>
 </div>
 
 
-
 ##
-🎮 Games
+<h2 align="left"> 🎮 Games
 <div style="display: inline_block"><br>
-
   <a href="https://steamcommunity.com/id/whoisvtx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  </h2>
 </div>
