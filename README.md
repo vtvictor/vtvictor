@@ -18,11 +18,3 @@
   </a>
 
 </div>
-
-
-<h2 align="left"> 🎮 Games 
-<div style="display: inline_block"><br>
-  <a href="https://steamcommunity.com/id/whoisvtx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-  </h2>
-  </a>
-</div>
