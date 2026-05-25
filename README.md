@@ -4,6 +4,8 @@
 Designing scalable systems, cloud environments, infrastructure automation and backend solutions with Python, Java and AWS.
 </p>
 
+---
+
 <h3>☁️ Cloud & Infrastructure</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -11,6 +13,13 @@ Designing scalable systems, cloud environments, infrastructure automation and ba
   <img src="https://img.shields.io/badge/Infrastructure-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge"/>
+</p>
+
+<h3>🐧 DevOps & Platform</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 <h3>🐍 Core Languages</h3>
@@ -40,4 +49,10 @@ Designing scalable systems, cloud environments, infrastructure automation and ba
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+<p align="left">
+Focused on building scalable systems, automation workflows, cloud infrastructure and practical engineering solutions.
 </p>
