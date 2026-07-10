@@ -6,19 +6,36 @@ Designing scalable systems, cloud environments, infrastructure automation and ba
 
 ---
 
-<h3>☁️ Cloud & Infrastructure</h3>
+<h3>☁️ Cloud</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Infrastructure-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SES-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 </p>
 
-<h3>🐧 DevOps & Platform</h3>
+<h3>🖥️ Microsoft Infrastructure</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+<h3>🌐 Infrastructure & Networking</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge"/>
+</p>
+
+<h3>⚙️ DevOps & Platform</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
@@ -37,22 +54,16 @@ Designing scalable systems, cloud environments, infrastructure automation and ba
   <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
 </p>
 
-<h3>🗄 Databases</h3>
+<h3>🗄️ Databases</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<h3>🛠 Development Tools</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 ---
 
 <p align="left">
-Focused on building scalable systems, automation workflows, cloud infrastructure and practical engineering solutions.
+Focused on building scalable cloud infrastructure, Microsoft environments, backend services and automation solutions with Python.
 </p>
