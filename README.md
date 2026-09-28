@@ -64,5 +64,4 @@ Designing scalable systems, cloud environments, infrastructure automation and ba
 ---
 
 <p align="left">
-Focused on building scalable cloud infrastructure, Microsoft environments, backend services and automation solutions with Python.
 </p>
